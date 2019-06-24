@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace conditionals1
+namespace Conditionals1
 {
     class MainClass
     {
@@ -23,6 +23,8 @@ namespace conditionals1
 
         public static void Main(string[] args)
         {
+            // Testing update of Github
+
             int temperature = -5;
             string stateOfMatter;
 
